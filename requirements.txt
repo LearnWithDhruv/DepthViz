@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+torchaudio
+transformers
+numpy
+open3d
+matplotlib
+mpu6050-raspberrypi
+streamlit
